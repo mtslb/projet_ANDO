@@ -3,7 +3,7 @@ classement_uci,coureur,equipe,points_uci,Weight_kg
 16,VAUQUELIN Kévin,Arkéa - B&B Hotels,1331,69.0
 28,GRÉGOIRE Romain,Groupama - FDJ,1108,64.0
 31,MARTINEZ Lenny,Bahrain - Victorious,1057, 52.0
-37,JEANNIÈRE Emilien,Team TotalEnergies,943,
+37,JEANNIÈRE Emilien,Team TotalEnergies,943, 63.0
 52,ALAPHILIPPE Julian,Tudor Pro Cycling Team,780,62.0
 56,PRODHOMME Nicolas,Decathlon AG2R La Mondiale Team,753,63.0
 64,CHAMPOUSSIN Clément,XDS Astana Team,699,61.0
@@ -16,12 +16,12 @@ classement_uci,coureur,equipe,points_uci,Weight_kg
 100,PARET-PEINTRE Aurélien,Decathlon AG2R La Mondiale Team,539,64.0
 113,LAPEIRA Paul,Decathlon AG2R La Mondiale Team,509,64.0
 123,BARRÉ Louis,Intermarché - Wanty,471,68.0
-126,DUJARDIN Sandy,Team TotalEnergies,464,
+126,DUJARDIN Sandy,Team TotalEnergies,464, 63.0
 132,LAURANCE Axel,INEOS Grenadiers,449,66.0
 134,BERTHET Clément,Decathlon AG2R La Mondiale Team,446,68.0
 135,PENHOËT Paul,Groupama - FDJ,445,64.0
 136,GRUEL Thibaud,Groupama - FDJ,442,70.0
-138,RONDEL Mathys,Tudor Pro Cycling Team,441,
+138,RONDEL Mathys,Tudor Pro Cycling Team,441,67.0
 140,COQUARD Bryan,Cofidis,440,60.0
 141,RENARD Alexis,Cofidis,436,73.0
 142,TRONCHON Bastien,Decathlon AG2R La Mondiale Team,436,70.0
@@ -30,13 +30,13 @@ classement_uci,coureur,equipe,points_uci,Weight_kg
 162,HOFSTETTER Hugo,Israel - Premier Tech,399,65.0
 172,ARMIRAIL Bruno,Decathlon AG2R La Mondiale Team,376,71.0
 175,PARET-PEINTRE Valentin,Soudal Quick-Step,367,52.0
-176,THOMAS Benjamin,Cofidis,366,
+176,THOMAS Benjamin,Cofidis,366,68.0
 184,DÉMARE Arnaud,Arkéa - B&B Hotels,348,76.0
 189,TURGIS Anthony,Team TotalEnergies,338,69.0
-199,DELBOVE Joris,Team TotalEnergies,314,
+199,DELBOVE Joris,Team TotalEnergies,314,65.0
 201,GAUDU David,Groupama - FDJ,312,53.0
 202,COSTIOU Ewen,Arkéa - B&B Hotels,312,64.0
-209,GUERIN Alexis,Anicolor / Tien 21,305,
+209,GUERIN Alexis,Anicolor / Tien 21,305,65.0
 234,COSNEFROY Benoît,Decathlon AG2R La Mondiale Team,273,64.0
 237,LAFAY Victor,Decathlon AG2R La Mondiale Team,271,65.0
 240,LAPORTE Christophe,Team Visma | Lease a Bike,270,76.0
@@ -44,10 +44,10 @@ classement_uci,coureur,equipe,points_uci,Weight_kg
 268,ROCHAS Rémy,Groupama - FDJ,240,51.0
 275,BARGUIL Warren,Team Picnic PostNL,235,61.0
 277,LATOUR Pierre,Team TotalEnergies,234,64.0
-280,VERCHER Mattéo,Team TotalEnergies,233,
+280,VERCHER Mattéo,Team TotalEnergies,233,60.0
 281,GAUTHERAT Pierre,Decathlon AG2R La Mondiale Team,231,70.0
 284,BISIAUX Léo,Decathlon AG2R La Mondiale Team,229,52.0
-286,MAIRE Adrien,Unibet Tietema Rockets,228,
+286,MAIRE Adrien,Unibet Tietema Rockets,228,63.0
 335,DOUBEY Fabien,Team TotalEnergies,188,62.0
 357,RUSSO Clément,Groupama - FDJ,173,73.0
 361,MOLARD Rudy,Groupama - FDJ,170,62.0

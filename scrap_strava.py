@@ -1,0 +1,9 @@
+import requests
+import csv
+from dotenv import load_dotenv
+import os
+
+# Charger les clés depuis .env
+load_dotenv()
+ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
+
